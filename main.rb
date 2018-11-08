@@ -5,3 +5,7 @@ end
 def another_method
   puts "wow! another method!"
 end
+
+def wow
+  puts 'wow'
+end
